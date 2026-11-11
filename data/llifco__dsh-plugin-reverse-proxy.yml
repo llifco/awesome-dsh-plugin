@@ -1,0 +1,6 @@
+url: https://github.com/llifco/dsh-plugin-reverse-proxy
+name: dsh-plugin-reverse-proxy
+category: webui
+description:
+  zh: DSH WebUI局域网访问插件，内置反向代理+免Token登录。改写请求头解决跨设备403，手机平板同局域网直接打开页面，不用复制随机Token。支持WebSocket流式输出，仅WebUI可用，桌面客户端自动休眠。
+  en: DSH WebUI LAN access plugin, built-in reverse proxy + token-free login.
